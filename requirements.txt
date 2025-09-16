@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+langchain_groq
+chromadb
+fpdf
+SpeechRecognition
+pyttsx3
+transformers
+torch
+pyaudio
+unstructured
+sentence-transformers
+load_dotenv
+langchain_huggingface
