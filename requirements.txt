@@ -13,3 +13,4 @@ unstructured
 sentence-transformers
 load_dotenv
 langchain_huggingface
+streamlit
